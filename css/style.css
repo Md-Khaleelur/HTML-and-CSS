@@ -108,7 +108,7 @@ line-height:24px
 
 }
 
-.nav,.navbar a:hover{
+.navbar a:hover{
     background-color: aliceblue;
     color: black;
 }
